@@ -1,0 +1,15 @@
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csprojAssemblyReference.cache
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.Form1.resources
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csproj.GenerateResource.cache
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfoInputs.cache
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.AssemblyInfo.cs
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.csproj.CoreCompileInputs.cache
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.exe
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.deps.json
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.json
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.runtimeconfig.dev.json
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.dll
+F:\C#_homework\WinFormsApp9\WinFormsApp9\bin\Debug\netcoreapp3.1\WinFormsApp9.pdb
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.dll
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.pdb
+F:\C#_homework\WinFormsApp9\WinFormsApp9\obj\Debug\netcoreapp3.1\WinFormsApp9.genruntimeconfig.cache
